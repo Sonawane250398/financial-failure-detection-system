@@ -1,4 +1,4 @@
-markdown# Financial Reporting Failure Detection System
+# Financial Reporting Failure Detection System
 
 ## Business Problem
 Month-end financial reporting failures — missing records, duplicate entries, 
